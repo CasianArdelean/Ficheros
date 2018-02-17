@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ficheros</string>
+    <string name="ejercicio1">Ficheros1</string>
+    <string name="ejercicio2">Ficheros2</string>
+    <string name="ejercicio3">Ficheros3</string>
+    <string name="salir">Salir</string>
+
+    <!-- Ejercicio1 -->
+    <string name="contenido_a_escribir">contenido a escribir</string>
+    <string name="anadirInt">AÑADIR FICH. INT.</string>
+    <string name="anadirExt">AÑADIR FICH. EXT.</string>
+    <string name="leerInt">LEER FICH. INT.</string>
+    <string name="leerExt">LEER FICH. EXT.</string>
+    <string name="leerRecurso">LEER RECURSO</string>
+    <string name="borrarInt">BORRAR FICH. INT.</string>
+    <string name="borrarExt">BORRAR FICH. EXT.</string>
+    <string name="contenido_del_fichero">El contenido del fichero es:</string>
+    <string name="title_activity_ej1_xml">Ej1_xml</string>
+    <string name="title_activity_main_xmls">MainXMLs</string>
+</resources>
